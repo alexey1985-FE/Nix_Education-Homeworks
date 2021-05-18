@@ -1,0 +1,7 @@
+div {
+	margin: 100px auto;
+	width: 350px;
+	height: 200px;
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/1024px-W3C%C2%AE_Icon.svg.png') 50% 50%/55% no-repeat;
+	box-shadow: inset 50px -45px 15px 5px green, inset -28px 29px 15px 20px black, -45px -34px 15px 0px red, 45px 34px 15px 0px blue;
+}
