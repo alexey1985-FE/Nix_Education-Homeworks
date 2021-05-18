@@ -1,0 +1,18 @@
+body {
+	opacity: 0.3;
+	/* или */
+	/* color:  rgba(0, 0, 0, 0.3); */
+}
+
+p {
+	color: red;
+}
+.second-method {
+	color: #800000;
+}
+.third-method {
+	color: rgb(128, 0, 128);
+}
+.fourth-method {
+	color: rgba(0, 128, 0, 0.5);
+}
