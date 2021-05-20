@@ -7,5 +7,8 @@
 # Nix_Education-Homework_3
 [Demo](https://alexey1985-fe.github.io/Nix_Education-Homeworks/Yevkov--Nix-homework-3/)
 
+# Nix_Education-Homework_4
+[Demo](https://alexey1985-fe.github.io/Nix_Education-Homeworks/Yevkov--Nix-homework-4/)
+
 
 
