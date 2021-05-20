@@ -1,9 +1,0 @@
-* {
-	box-sizing: border-box;
-}
-
-div {
-	width: 25%;
-	border: 2px solid black;
-	float: left;
-}
