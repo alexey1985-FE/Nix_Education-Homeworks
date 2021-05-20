@@ -1,0 +1,27 @@
+body {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.bg-red {
+	/* background-color: red; */
+}
+
+.float-left {
+	float: left;
+	width: 30%;
+}
+
+.float-right {
+	float: right;
+	width: 30%;
+}
+
+.main {
+	margin: 0px 30% 0px 30%;
+	background-color: #fff;
+}
+
+.wrapper {
+	background-color: red;
+}
