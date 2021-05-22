@@ -1,0 +1,28 @@
+div {
+	border: 2px solid black;
+}
+
+.container {
+	display: flex;
+	width: 40%;
+	height: 200px;
+	align-items: flex-end;
+}
+
+.item {
+	flex: 0 1 100px;
+	padding: 5px;
+}
+
+.center {
+	align-self: center;
+}
+.top {
+	align-self: flex-start;
+}
+.order {
+	order: 1;
+}
+
+
+

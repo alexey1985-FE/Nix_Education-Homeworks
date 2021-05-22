@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+div {
+	padding: 5px;
+	border: 2px solid black;
+	margin: 5px;
+}
+
+@media (min-width: 400px) and (max-width: 499px) {
+	.flex-container {
+		display: flex;
+	}
+	.flex {
+		flex: 1 0 30%;
+	}
+}
+
+@media (min-width: 500px) and (max-width: 599px) {
+	.flex-container {
+		display: flex;
+		justify-content: space-between;
+	}
+	.flex-container div {
+		flex: 1 1 auto;
+	}
+}
+
+@media (min-width: 600px) {
+	.flex-container {
+		display: flex;
+		justify-content: space-between;
+	}
+	.grow {
+		flex: 1 1 auto;
+	}
+	.flex-grow {
+		flex: 0 0 19%;
+	}
+}

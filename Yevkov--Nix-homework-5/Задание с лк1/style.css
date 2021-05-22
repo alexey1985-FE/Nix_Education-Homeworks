@@ -1,0 +1,25 @@
+div {
+	border: 2px solid black;
+}
+
+.container {
+	display: flex;
+	width: 39%;
+	padding: 15px 15px 0 15px;
+	flex-wrap: wrap-reverse;
+	justify-content: space-between;
+}
+
+.item {
+	flex: 0 1 345px;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+
+.item-3 {
+	order: -1;
+}
+.order-1 {
+	order: 1;
+}
+

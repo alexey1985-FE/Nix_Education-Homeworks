@@ -1,0 +1,22 @@
+div {
+	padding: 5px;
+	border: 2px solid black;
+	margin: 5px;
+}
+.flex-container {
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.width {
+	width: 100px;
+}
+
+.center {
+	align-self: center;
+}
+.flex-end {
+	align-self: flex-end;
+}
