@@ -13,5 +13,7 @@
 # Nix_Education-Homework_5
 [Demo](https://alexey1985-fe.github.io/Nix_Education-Homeworks/Yevkov--Nix-homework-5/)
 
+# Internet shop
+[Demo](https://alexey1985-fe.github.io/Nix_Education-Homeworks/Internet_shop/)
 
 
