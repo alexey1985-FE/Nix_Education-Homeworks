@@ -1,0 +1,9 @@
+p {
+	word-spacing: 20px;
+}
+.letter-spacing {
+	letter-spacing: 5px;
+}
+.text-shadow {
+	text-shadow: 4px 2px 1px #191b5c;
+}

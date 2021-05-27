@@ -1,0 +1,9 @@
+.bold {
+	font-weight: 700;
+}
+.italic {
+	font-style: italic;
+}
+p {
+	font-size: 2em;
+}
