@@ -16,6 +16,9 @@
 # Nix_Education-Homework_6
 [Demo](https://alexey1985-fe.github.io/Nix_Education-Homeworks/Yevkov--Nix-homework-6/)
 
+# Nix_Education-Homework_11_JS
+[Demo](https://alexey1985-fe.github.io/Nix_Education-Homeworks/Yevkov--Nix-homework-11-JS/)
+
 
 
 
